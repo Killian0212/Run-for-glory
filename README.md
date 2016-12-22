@@ -1,2 +1,2 @@
 # Run-for-glory
-S project by EPITA's student
+S2 project by EPITA's student
