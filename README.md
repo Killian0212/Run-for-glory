@@ -2,7 +2,7 @@
 S2 project by EPITA's student
 
 # Authors:
-Saïfane Farfar
-Killian Gardahaut
-Nicolas Loriot
-Florian Padel
+Saïfane Farfar\n
+Killian Gardahaut\n
+Nicolas Loriot\n
+Florian Padel\n
